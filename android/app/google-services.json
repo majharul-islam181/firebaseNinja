@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087805796590",
+    "project_id": "fir-ninja-c36c6",
+    "storage_bucket": "fir-ninja-c36c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087805796590:android:a6d9a9c68f7f72e398c3ff",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087805796590-7fhmrdsba41aa2230ev8bavqarhcb91t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lYasnu1zH_pJmSFkhZE9D5WdzVJ9ATU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087805796590-7fhmrdsba41aa2230ev8bavqarhcb91t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
